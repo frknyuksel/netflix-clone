@@ -1,6 +1,6 @@
-[image](/images/Register.png)
-[image](/images/Screen.png)
-[image](/images/Video.png)
+![Image](/images/Register.png)
+![Image](/images/Screen.png)
+![Image](/images/Video.png)
 
 
 
