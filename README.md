@@ -1,10 +1,10 @@
-![Image](/images/Register.png)
+
 ![Image](/images/Screen.png)
-![Image](/images/Video.png)
+### Install packages
 
-
-
-
+```shell
+npm i
+```
 ### Install packages
 
 ```shell
@@ -30,3 +30,15 @@ NEXTAUTH_SECRET=
 ```shell
 npm run dev
 ```
+
+### Thanks to
+
+--https://github.com/AntonioErdeljac
+
+
+![Image](/images/Register.png)
+![Image](/images/Video.png)
+
+
+
+
